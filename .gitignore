@@ -1,0 +1,10 @@
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+.vs/
+
+*.sln
